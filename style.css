@@ -1,6 +1,9 @@
 body{
 	background: #fff;
 }
+.title-margin {
+	margin-top: 50px;
+}
 .cart{
 	margin: 100px 0;
 	background-color: #F6F5FA;;
